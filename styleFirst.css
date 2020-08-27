@@ -2,11 +2,18 @@ body{
 
     background-color: rgb(54, 53, 48);
 }
+#banner{
+
+    width: 50%;
+    margin-right: 500px;
+    margin-left: 360px;
+}
 
  #C0{
     margin-right: 500px;
     margin-left: 500px;
-    background-color:rgb(20, 116, 119);
+    border: 5px solid rgb(20, 116, 119);
+   
      color: black;
  }
 
